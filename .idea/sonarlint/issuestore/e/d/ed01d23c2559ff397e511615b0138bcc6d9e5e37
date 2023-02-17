@@ -1,0 +1,18 @@
+
+\
+java:S1118":Add a private constructor to hide the implicit public one.(ˆóîÀùÿÿÿÿ8©×â Ù0
+I
+java:S3011",This accessibility update should be removed.(˜ÂÓ˜8¼×â Ù0
+I
+java:S3011",This accessibility bypass should be removed.(¢àÌó8À×â Ù0
+N
+java:S3011"",This accessibility bypass should be removed.(Õ’È±üÿÿÿÿ8Â×â Ù0
+I
+java:S3011%",This accessibility bypass should be removed.(ÍÇ–—8È×â Ù0
+I
+java:S3011(",This accessibility bypass should be removed.(¨†ˆ¤8É×â Ù0
+J	java:S108+")Either remove or fill this block of code.(Ï» ûýÿÿÿÿ8Í×â Ù0
+I
+java:S1128"-Remove this unused import 'org.slf4j.Logger'.(íØ®68Î×â Ù0
+Q
+java:S1128"4Remove this unused import 'org.slf4j.LoggerFactory'.(–ÿÚÞ8Ï×â Ù0

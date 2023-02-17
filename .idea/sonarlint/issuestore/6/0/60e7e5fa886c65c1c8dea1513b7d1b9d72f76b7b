@@ -1,0 +1,20 @@
+
+n	java:S115\"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(¶
+u
+java:S3008Z"ZRename this field "FILED_MATCH_MAP" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(σΎ°Άώÿÿÿÿ
+y
+java:S3008ψ"bRename this field "FILED_MATCH_MESSAGE_MAP" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(—ΛΒ
+8
+java:S2386Z"Make this member "protected".(σΎ°Άώÿÿÿÿ
+4
+java:S2386ψ"Make this member "protected".(—ΛΒ
+U
+java:S1118":Add a private constructor to hide the implicit public one.(ΣΟ‹δύÿÿÿÿ
+v
+java:S1104Z"[Make FILED_MATCH_MAP a static final constant or non-public and provide accessors if needed.(σΎ°Άώÿÿÿÿ
+z
+java:S1104ψ"cMake FILED_MATCH_MESSAGE_MAP a static final constant or non-public and provide accessors if needed.(—ΛΒ
+P
+java:S1444Z"5Make this "public static FILED_MATCH_MAP" field final(σΎ°Άώÿÿÿÿ
+T
+java:S1444ψ"=Make this "public static FILED_MATCH_MESSAGE_MAP" field final(—ΛΒ

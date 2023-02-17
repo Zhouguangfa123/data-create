@@ -1,0 +1,55 @@
+
+t	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(®Üªıÿÿÿÿÿ
+_
+java:S1854Ş"CRemove this useless assignment to local variable "caOaStationInfo".(ª˜Şºüÿÿÿÿ
+[
+java:S3252İ"DUse static access with "com.alibaba.fastjson.JSON" for "parseArray".(ç«ÀÅ
+P
+java:S1481Ş"4Remove this unused "caOaStationInfo" local variable.(ª˜Şºüÿÿÿÿ
+[
+java:S3252ã"DUse static access with "com.alibaba.fastjson.JSON" for "parseArray".(Ìóš¨
+C
+java:S2201ä"'The return value of "get" must be used.(ŒˆÖøÿÿÿÿ
+[
+java:S3252å"DUse static access with "com.alibaba.fastjson.JSON" for "parseArray".(î‹åé
+R	java:S125è"<This block of commented-out lines of code should be removed.(Á¸¡‚
+W	java:S125í"<This block of commented-out lines of code should be removed.(èÈä×üÿÿÿÿ
+T	java:S106ï"9Replace this use of System.out or System.err by a logger.(öİß•ıÿÿÿÿ
+]
+java:S1128";Remove this unused import 'com.alibaba.fastjson.JSONArray'.(ÿÀâ³ùÿÿÿÿ8ÅÙ¼ÓÚ0
+c
+java:S1128	"ARemove this unused import 'com.data.create.utils.ClassFiledUtil'.(Ìù”ıÿÿÿÿ8ÆÙ¼ÓÚ0
+P
+java:S1128".Remove this unused import 'java.util.HashMap'.(™˜”€ùÿÿÿÿ8ÆÙ¼ÓÚ0
+r
+java:S1128"PRemove this unused import 'com.data.create.entity.DingTalkConst.TEXT_TYPE_LIST'.(Ğ€…Ñøÿÿÿÿ8ÆÙ¼ÓÚ0
+
+java:S1192Y"kDefine a constant instead of duplicating this literal "\t\t\t\"componentType\": \"DDDateField\",
+" 5 times.(…ˆûÿÿÿÿ8Ù¿ òÚ0
+
+java:S1192Ë"qDefine a constant instead of duplicating this literal "\t\t\t\"componentType\": \"InnerContactField\",
+" 3 times.(¢øå 8Ú¿ òÚ0
+ˆ
+java:S1192¦"jDefine a constant instead of duplicating this literal "\t\t\t\"componentType\": \"TableField\",
+" 6 times.(³ø«Õ8Ú¿ òÚ0
+~
+java:S1192"\Define a constant instead of duplicating this literal "\t\t\t\"bizAlias\": \"\",
+" 45 times.(ÍÕœµıÿÿÿÿ8Û¿ òÚ0
+ˆ
+java:S1192w"kDefine a constant instead of duplicating this literal "\t\t\t\"componentType\": \"NumberField\",
+" 9 times.(öáºë8Ü¿ òÚ0
+
+java:S1192"mDefine a constant instead of duplicating this literal "\t\t\t\"componentType\": \"DDSelectField\",
+" 9 times.(Ã¢îøÿÿÿÿ8Ü¿ òÚ0
+j
+java:S1192"HDefine a constant instead of duplicating this literal "\t\t{
+" 45 times.(öÄîÿÿÿÿÿ8İ¿ òÚ0
+f
+java:S1192""IDefine a constant instead of duplicating this literal "\t\t},
+" 44 times.(Àùò„8ß¿ òÚ0
+…
+java:S11925"iDefine a constant instead of duplicating this literal "\t\t\t\"componentType\": \"TextField\",
+" 6 times.(ÅÃ¥8ß¿ òÚ0
+¾
+java:S1192§"šDefine a constant instead of duplicating this literal "\t\t\t\"extValue\": \"{\\\"statValue\\\":[],\\\"componentName\\\":\\\"TableField\\\"}\",
+" 6 times.(­øıÿÿÿÿ8à¿ òÚ0

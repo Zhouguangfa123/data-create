@@ -1,0 +1,15 @@
+
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ÿÈÎŒüÿÿÿÿ8ÕÉÁÑÚ0
+T
+java:S1128"2Remove this unused import 'javax.print.DocFlavor'.(ÍØƒïúÿÿÿÿ8ÎàÀÑÚ0
+[
+java:S1128"9Remove this unused import 'java.io.BufferedOutputStream'.(«èÍôıÿÿÿÿ8ÎàÀÑÚ0
+Q
+java:S1128"5Remove this unused import 'java.io.FileOutputStream'.(˜«ªg8ÎàÀÑÚ0
+M
+java:S1128"0Remove this unused import 'java.io.InputStream'.(¹»º8ÎàÀÑÚ0
+X
+java:S1128	";Remove this unused import 'java.net.MalformedURLException'.(ªËŞˆ8ÎàÀÑÚ0
+O
+java:S1128"-Remove this unused import 'java.util.Random'.(èøÉ›ùÿÿÿÿ8ÎàÀÑÚ0
+asecrets:S6336"<Make sure this Alibaba Cloud Access Key ID is not disclosed.(¾„¿Ûüÿÿÿÿ8ÁæÑÑÚ0
