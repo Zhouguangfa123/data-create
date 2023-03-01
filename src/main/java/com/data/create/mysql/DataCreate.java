@@ -13,9 +13,9 @@ import java.util.Collections;
  */
 public class DataCreate {
     public static void main(String[] args) {
-        String url = "jdbc:mysql://rm-bp15m51e2t8wg73s3.mysql.rds.aliyuncs.com:3306/energy_industry?useUnicode=yes&characterEncoding=UTF8&allowMultiQueries=true&useSSL=false";
-        String username = "energy_industry";
-        String password = "p+1c+o0QHW_1_6Dj";
+        String url = "j";
+        String username = "";
+        String password = "p+1c+";
         FastAutoGenerator.create(url, username, password)
                 .globalConfig(builder -> {
                     builder.author("zhougf") // 设置作者
