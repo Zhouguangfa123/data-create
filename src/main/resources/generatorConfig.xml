@@ -18,9 +18,9 @@
         </commentGenerator>
         <!--数据库连接-->
         <jdbcConnection driverClass="com.mysql.jdbc.Driver"
-                        connectionURL="jdbc:mysql://bangdaotest.c1hkwnjoo9se.ap-southeast-1.rds.amazonaws.com:3306/pp_tran"
-                        userId="root"
-                        password="aws#Bangdao123">
+                        connectionURL="17.0.0.1m:3306/pp_tran"
+                        userId="test"
+                        password="aws#test">
         </jdbcConnection>
         <javaTypeResolver>
             <property name="forceBigDecimals" value="true"/>
