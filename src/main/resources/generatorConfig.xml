@@ -14,7 +14,7 @@
         <commentGenerator>
             <property name="suppressDate" value="true"/>
             <!-- 是否去除注释-->
-            <property name="suppressAllComments" value="false"/>
+            <property name="suppressAllComments" value="true"/>
         </commentGenerator>
         <!--数据库连接-->
         <jdbcConnection driverClass="com.mysql.jdbc.Driver"
@@ -42,7 +42,7 @@
             <property name="enableSubPackages" value="true"/>
         </javaClientGenerator>
         <!--表名/生成实体类的名字-->
-        <table tableName="payment_trans_order" domainObjectName="UserInfo"
+        <table tableName="payment_reb_summary" domainObjectName="PaymentRebSummary"
                enableCountByExample="false"
                enableUpdateByExample="false"
                enableDeleteByExample="false"
