@@ -25,7 +25,7 @@ public class RocketMqProducer {
         String messageInfo = "{ \n" +
                 "  \"OperatorId\":\"MA25CNM38\",\n" +
                 "  \"Type\": 3, \n" +
-                "  \"BillDownloadUrl\": \"https://mkplat-private.oss-cn-shanghai.aliyuncs.com/energy-bill/confirmed-bills-test.csv?OSSAccessKeyId=yBKaYEZOCKuISd8T&Expires=1673354878&Signature=4yFRAo6FxSdpb0ZA0DaXYZr%2Fyk8%3D\" , \n" +
+                "  \"BillDownloadUrl\": \"htk8%3D\" , \n" +
                 "  \"AccountDate\": \"2022-03-29\" \n" +
                 "}";
         // 实例化消息生产者Producer
